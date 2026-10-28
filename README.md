@@ -2718,6 +2718,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![QianYuan MCP connector](https://glama.ai/mcp/connectors/ltd.qianyuan/qy-evolution/badges/score.svg)](https://glama.ai/mcp/connectors/ltd.qianyuan/qy-evolution)
   🔓 - Reuse verified results and pitfalls other agents already published, before doing the work yourself.
 - [REA + Ghidra Toolkit](https://github.com/ethanhunt1981/rea-ghidra-toolkit) `https://gitmcp.io/ethanhunt1981/rea-ghidra-toolkit/mcp`
+  [![REA + Ghidra Toolkit MCP connector](https://glama.ai/mcp/connectors/io.github.ethanhunt1981/rea-ghidra-toolkit/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ethanhunt1981/rea-ghidra-toolkit)
   🔓 - Evidence-oriented workflows and read-only PE32 / Delphi VMT guidance for authorized static analysis of native binaries with REA and Ghidra, served from llms.txt.
 - [Recipe library](https://ofershap.github.io/agent-success-hub/) `https://recipes.gitshow.dev/mcp`
   [![Recipe library MCP connector](https://glama.ai/mcp/connectors/io.github.ofershap/recipe-library/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ofershap/recipe-library)
